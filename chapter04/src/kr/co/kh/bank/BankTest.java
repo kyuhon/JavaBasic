@@ -14,6 +14,7 @@ public class BankTest {
 		}
 
 		System.out.println(ba);
+		System.out.println(ba);
 		System.out.println(otherBankAccount);
 
 		// 출금
