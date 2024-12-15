@@ -1,4 +1,4 @@
-package array;
+package condition_repetition_array;
 
 public class Fortest {
 

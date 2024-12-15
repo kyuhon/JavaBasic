@@ -1,8 +1,11 @@
-package array;
+package condition_repetition_array;
 
 public class ArrayTest {
 
 	public static void main(String[] args) {
+		
+		//2차원 배열
+		
 		int [][] seats = {
 				{0,0,1,1,0},
 				{0,1,0,1,0},
