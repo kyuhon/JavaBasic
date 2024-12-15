@@ -1,4 +1,4 @@
-package condition_repetition_array;
+package term;
 
 import java.util.Scanner;
 
